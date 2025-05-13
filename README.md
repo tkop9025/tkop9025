@@ -1,25 +1,23 @@
-# Quantum Synergy Orchestrator, Metaverse Based Workflow Sherpa
+# Quantum Synergy Orchestrator, soon to be Metaverse Based Workflow Sherpa
 
 
 
 Open to **low-touch (ew), high-hype collaborations**. Let’s hyperpivot our human capital into a new ontology of deliverable-optional transformation.
 
-## Currently Working on
-- Ricing
-- Script to move my mouse to appear online on teams
-- CTF Toolkit of dubious quality and usefulness
-- Considering better ways to phrase "please make it work this time" so that claude will finally fix my broken programs
+## Currently working on
+- balisong tricks
+- a quantum enabled script to wiggle my mouse to appear online on teams
+- ctf toolkit of dubious quality and usefulness
 
-![WakaTime Week](https://github-readme-stats.vercel.app/api/wakatime?username=tkop9025&layout=compact)
-
-
+<details> 
 
 ## Proficient in
-- flashy balisong tricks
+- Ricing MacOs
 - forgetting medication
-- stimulants
+- politely begging LLMs to make it work this time 
 
 ## Learning
 - a new hyperspecific nvim macro I'll use once and forget
-- personal, professional, p-awesome projects that make me look hireable
-hire me please
+- ghidra successor so I get ~~abducted~~ hired by the NSA
+
+</details>
