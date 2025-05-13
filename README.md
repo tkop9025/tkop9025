@@ -2,16 +2,16 @@
 
 
 
-Open to **low-touch (ew), high-hype collaborations**. Let’s hyperpivot our human capital into a new ontology of deliverable-optional transformation.
+Open to **low-touch, high-hype collaborations**. Let’s hyperpivot our human capital into a new ontology of deliverable-optional transformation.
 
 ## Currently working on
-- balisong tricks
+- AI enabled balisong tricks
 - a quantum enabled script to wiggle my mouse to appear online on teams
 - ctf toolkit of dubious quality and usefulness
 
 ## Proficient in
 - Ricing MacOS
-- forgetting medication
+- data driven medication forgetting 
 - politely begging LLMs to make it work this time 
 
 ## Learning
@@ -21,3 +21,5 @@ Open to **low-touch (ew), high-hype collaborations**. Let’s hyperpivot our hum
 <details> 
 made you look
 </details>
+
+[pfp source](https://forgottenrealms.fandom.com/wiki/Firbolg)
