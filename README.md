@@ -4,17 +4,17 @@
 
 open to **low-touch, high-hype collaborations**. Let’s hyperpivot our human capital into a new ontology of deliverable-optional transformation.
 
-## Currently working on
+## currently working on
 - ai enabled balisong tricks
 - a quantum enabled script to wiggle my mouse to appear online on teams
 - ctf toolkit of dubious quality and usefulness
 
-## Proficient in
+## proficient in
 - ricing MacOS
 - data driven medication forgetting 
 - politely begging LLMs to make it work this time 
 
-## Learning
+## learning
 - a new hyperspecific nvim macro I'll use once and forget
 - ghidra successor so I get ~~abducted~~ hired by the NSA
 
