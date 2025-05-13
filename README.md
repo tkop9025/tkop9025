@@ -9,10 +9,8 @@ Open to **low-touch (ew), high-hype collaborations**. Let’s hyperpivot our hum
 - a quantum enabled script to wiggle my mouse to appear online on teams
 - ctf toolkit of dubious quality and usefulness
 
-<details> 
-
 ## Proficient in
-- Ricing MacOs
+- Ricing MacOS
 - forgetting medication
 - politely begging LLMs to make it work this time 
 
@@ -20,4 +18,6 @@ Open to **low-touch (ew), high-hype collaborations**. Let’s hyperpivot our hum
 - a new hyperspecific nvim macro I'll use once and forget
 - ghidra successor so I get ~~abducted~~ hired by the NSA
 
+<details> 
+made you look
 </details>
