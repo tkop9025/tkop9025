@@ -5,7 +5,7 @@
 open to **low-touch, high-hype collaborations**. Let’s hyperpivot our human capital into a new ontology of deliverable-optional transformation.
 
 ## currently working on
-- ai enabled balisong tricks
+- agentic ai balisong tricks
 - a quantum enabled script to wiggle my mouse to appear online on teams
 - ctf toolkit of dubious quality and usefulness
 
