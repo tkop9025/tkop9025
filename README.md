@@ -20,9 +20,6 @@ open to **low-touch, high-hype collaborations**. Let’s hyperpivot our human ca
 
 <details> 
 made you look
-<details>
-come on not again
-</details>
 </details>
 
 [pfp source](https://forgottenrealms.fandom.com/wiki/Firbolg)
