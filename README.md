@@ -7,6 +7,7 @@ open to **low-touch, high-hype collaborations**. Let’s hyperpivot our human ca
 ## currently working on
 - agentic ai balisong tricks
 - a quantum enabled script to wiggle my mouse to appear online on teams
+- improving my C fluency
 - ctf toolkit of dubious quality and usefulness
 
 ## proficient in
@@ -16,6 +17,7 @@ open to **low-touch, high-hype collaborations**. Let’s hyperpivot our human ca
 
 ## learning
 - a new hyperspecific nvim macro I'll use once and forget
+- improving notetaking with zk
 - ghidra successor so I get ~~abducted~~ hired by the NSA
 
 <details> 
