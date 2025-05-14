@@ -19,6 +19,7 @@ open to **low-touch, high-hype collaborations**. Let’s hyperpivot our human ca
 - a new hyperspecific nvim macro I'll use once and forget
 - improving notetaking with zk
 - ghidra successor so I get ~~abducted~~ hired by the NSA
+- cursive handwriting
 
 <details> 
 made you look
