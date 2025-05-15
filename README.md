@@ -2,7 +2,7 @@
 
 
 
-open to **low-touch, high-hype collaborations**. Let’s hyperpivot our human capital into a new ontology of deliverable-optional transformation.
+open to circling back on **low-touch, high-hype synergistic collaborations**. Let’s hyperpivot our human capital into a new ontology of deliverable-optional optimized transformation.
 
 ## currently working on
 - agentic ai balisong tricks
