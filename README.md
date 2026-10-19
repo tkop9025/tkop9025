@@ -1,25 +1,9 @@
-# quantum synergy orchestrator, soon to be metaverse based workflow sherpa
+get outta here
 
+the pfp is for an old D&D character named Knud. (firbolg, circle of stars druid)
+currently playing Bogdan (eladrin, drunken master monk). monk sucks don't try it.
 
-
-open to circling back on **low-touch, high-hype synergistic collaborations**. Let’s hyperpivot our human capital into a new ontology of deliverable-optional optimized transformation.
-
-## currently working on
-- agentic ai balisong tricks
-- a quantum enabled script to wiggle my mouse to appear online on teams
-- improving my C fluency
-- ctf toolkit of dubious quality and usefulness
-
-## proficient in
-- ricing MacOS
-- data driven medication forgetting 
-- politely begging LLMs to make it work this time 
-
-## learning
-- a new hyperspecific nvim macro I'll use once and forget
-- improving notetaking with zk
-- ghidra successor so I get ~~abducted~~ hired by the NSA
-- cursive handwriting
+where's my portfolio? great question!
 
 <details> 
 made you look
